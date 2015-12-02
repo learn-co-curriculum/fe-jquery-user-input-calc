@@ -1,10 +1,3 @@
----
-language: javascript, html, css
-tags: js, jquery, switch, if, else, conditional, statement, beginner
-type: lab, challenge
-resources: 8
----
-
 # Code Challenge - jQuery User Input Calculator
 
 Students will work in groups to create a calculator that accepts user input using jQuery event listeners and JavaScript functions, if/else or switch statements, and jQuery val methods.
@@ -35,3 +28,5 @@ See a live working example of the simple calculator [here](http://flatiron-schoo
  * [jQuery API - Events - Click](http://api.jquery.com/click/)
  * [jQuery API - Text](http://api.jquery.com/text/)
  * [Live Working Example](http://flatiron-school-curriculum.github.io/fe-jquery-user-input-calc/)
+
+<a href='https://learn.co/lessons/fe-jquery-user-input-calc' data-visibility='hidden'>View this lesson on Learn.co</a>
