@@ -1,5 +1,3 @@
-
-
 # Code Challenge - jQuery User Input Calculator
 
 ## Description
